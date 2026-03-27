@@ -56,17 +56,14 @@ I enjoy solving real-world problems with strong engineering practices — from A
 
 ---
 
-<!--## 🌟 Featured Projects
+## 🌟 Featured Projects
 
-> Replace these with your best repositories and keep only 3–5 strongest projects.
+### Intelligent Fitness Coach
+Built a full-stack application with authentication, exercise detection with client-side inference, personalized exercise recommendations, detailed workout insights for performed workouts, and a responsive UI.  
+**Tech:** Angular, FastAPI, PyTorch, ONNX, PostgreSQL  
+**URL:** [Intelligent Fitness Coach](https://intelligent-fitness-coach-fe.vercel.app/login)
 
-### 1) Project Name — Production-Ready Full-Stack App
-Short impact-focused summary:  
-Built a full-stack application with authentication, role-based access, and responsive UI. Implemented CI pipeline and automated testing for reliable deployments.  
-**Tech:** React, Node.js, PostgreSQL, Docker  
-**Repo:** https://github.com/HirukaRanasinghe/project-1
-
-### 2) Project Name — Scalable Backend API
+<!--### 2) Project Name — Scalable Backend API
 Designed and implemented a REST API with rate limiting, caching, and structured logging. Improved response times and reliability under load.  
 **Tech:** TypeScript, Express, Redis, PostgreSQL  
 **Repo:** https://github.com/HirukaRanasinghe/project-2
