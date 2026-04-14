@@ -29,7 +29,7 @@ I enjoy solving real-world problems with strong engineering practices — from A
 - 🛠️ I value **clean architecture, code quality, and maintainability**
 - 🌱 Currently improving my skills in **AI engineering and AI full-stack development**
 - 📫 Reach me at: **rahpranasinghe559@gmail.com**  
-- 🔗 LinkedIn: **[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/hiruka-ranasinghe/)**  
+- 🔗 LinkedIn: **[https://www.linkedin.com/in/hiruka-ranasinghe/](https://www.linkedin.com/in/hiruka-ranasinghe/)**  
 <!--- 🌐 Portfolio: **https://your-portfolio-link.com**-->
 
 ---
