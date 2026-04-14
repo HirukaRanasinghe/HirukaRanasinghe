@@ -109,5 +109,5 @@ Contributed bug fixes and improvements to community repositories, including docu
 I’m open to **Associate AI Engineer and Software Engineer full-time opportunities** where I can contribute to real products, learn from strong teams, and grow as an engineer.
 
 If you’re hiring, feel free to connect 👇  
-**LinkedIn:** [https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/hiruka-ranasinghe/)  
+**LinkedIn:** [https://www.linkedin.com/in/hiruka-ranasinghe/](https://www.linkedin.com/in/hiruka-ranasinghe/)  
 **Email:** [rahpranasinghe559@gmail.com](mailto:rahpranasinghe559@gmail.com)
